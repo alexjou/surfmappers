@@ -34,7 +34,7 @@ Tabela de conteúdos
 
 ### Tecnologias
 - [Expo](https://expo.dev/)
-- [Eslint](https://eslint.org/), 
+- [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [React Native](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -60,6 +60,9 @@ $ yarn start || expo start
 
 ### APK
 
+Download APK: 
+[clique aqui](https://firebasestorage.googleapis.com/v0/b/meuapp-292f5.appspot.com/o/surfmappers-0dadf9cc31f948b29de353a628748e31-signed.apk?alt=media&token=77651cdf-59f8-4318-a906-6352022f4384)
+
 - Disponível para testes pelo EXPO: 
 
 1. Baixe o aplicativo Expo Go:
@@ -70,8 +73,6 @@ $ yarn start || expo start
 [Link](https://expo.dev/@alexjoubert/surfmappers)
 Ou aqui:
 <h1 align="center">
-    <img alt="Expo Qr Code" title="#expoqr" src=".assets/images/expoqr.png" width="250px" />
+    <img alt="Expo Qr Code" title="#expoqr" src="/assets/images/expoqr.png" width="250px" />
 </h1>
-
-APK: [clique aqui.](https://firebasestorage.googleapis.com/v0/b/meuapp-292f5.appspot.com/o/surfmappers-0dadf9cc31f948b29de353a628748e31-signed.apk?alt=media&token=77651cdf-59f8-4318-a906-6352022f4384)
 
