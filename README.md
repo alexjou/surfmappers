@@ -70,10 +70,10 @@ Download APK:
 - Disponível para testes pelo EXPO: 
 
 1. Baixe o aplicativo Expo Go:
-[Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)
+[Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US) ou 
 [IOS](https://apps.apple.com/us/app/expo-go/id982107779)
 
-1. Leia o QR CODE no link abaixo:
+1. Leia o QR CODE no link:
 [Link](https://expo.dev/@alexjoubert/surfmappers)
 Ou aqui:
 <h1 align="center">
