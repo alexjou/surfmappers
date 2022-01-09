@@ -1,8 +1,7 @@
 <h1 align="center">
-    <img alt="Logo" title="#logo" src="/assets/images/onlyLogo.png" width="250px" />
+    <img alt="Logo" title="#logo" src="/assets/images/surfmapperslogo.png" width="500px" />
 </h1>
-
-<h1 align="center">SurfMappers</h1>
+<p align="center" color="red">Desafio técnico para processo seletivo</p>
 
 <h1 align="center">
   <img
@@ -15,11 +14,19 @@
 Tabela de conteúdos
 =================
 <!--ts-->
+   * [Desafio](#Desafio)
    * [Funcionalidades](#Funcionalidades)
    * [Tecnologias](#Tecnologias)
    * [Como usar](#como-usar)
    * [Baixar APK](#APK)
 <!--te-->
+
+### Desafio
+- Trata-se de implementar em react native duas telas do app que será desenvolvido;
+- É preciso implementar as telas e fazer a navegação entre elas e adicionar suporte a internacionalização com suporte a inglês e português;
+
+- Tela 1: tela do feed do app;
+- Tela 2: tela de uma sessão de fotos;
 
 ### Funcionalidades
 - Listar "stories" de imagens e nomes com scroll horizontal;
