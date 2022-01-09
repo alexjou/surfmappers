@@ -1,9 +1,6 @@
-<div align="center">
-   <img
-    alt="Logo SurfMappers"
-    src="/assets/images/surfmapperslogo.png"
-   />
-</div>
+<h1 align="center">
+    <img alt="Logo" title="#logo" src="/assets/images/onlyLogo.png" width="250px" />
+</h1>
 
 <h1 align="center">SurfMappers</h1>
 
